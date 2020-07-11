@@ -1,4 +1,4 @@
-# Project
+# Projects
 1. Electricity Billing System
 
 2. Educom
