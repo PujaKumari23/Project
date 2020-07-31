@@ -6,7 +6,7 @@
 
 
 
-Functions: 
+<b>Functions: </b>
 <ul>
   <li>This file contains Java code to generate Email in format firstname.lastname@dept.companyname.com</li>
   
