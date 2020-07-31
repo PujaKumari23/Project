@@ -1,8 +1,8 @@
 <b>Email Generator</b>
 
-Language used- Java Core
+<b>Language used</b>- Java Core
 
-Implements basic Java concepts of methods and constructors and how one can make an interative application using these basic concepts.
+<b>Concepts used</b> - Implements basic Java concepts of methods and constructors and how one can make an interative application using these basic concepts.
 
 
 
