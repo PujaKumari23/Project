@@ -10,12 +10,12 @@ Functions:
 <ul>
   <li>This file contains Java code to generate Email in format firstname.lastname@dept.companyname.com</li>
   
-  The user has to enter the details of the employee like (firstname, lastname ,department)
+  <li>The user has to enter the details of the employee like (firstname, lastname ,department)</li>
   
-  A random password is generated along with the Email.
+   <li>A random password is generated along with the Email.</li>
   
-  One can also change the password and provide alternate Email.
+  <li> One can also change the password and provide alternate Email.</li>
   
-  One can display information about the employee.
+   <li>One can display information about the employee.</li>
   </ul>
 
