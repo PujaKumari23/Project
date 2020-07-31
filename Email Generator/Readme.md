@@ -1,4 +1,4 @@
-Email Generator
+<b>Email Generator</b>
 
 Language used- Java Core
 
