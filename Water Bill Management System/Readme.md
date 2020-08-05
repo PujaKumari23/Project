@@ -23,16 +23,16 @@ Functions :
    
 </ul>
 
-<h3>1. Login screen automatically appears after this screen.</h3>
+<h3>Login screen automatically appears after this screen.</h3>
 <img src="image/img1.png" height=400px width=500px>
 
-<h3>1. Login screen</h3>
+<h3>Login screen</h3>
 <img src="image/img2.png" height=400px width=500px>
 
-<h3>1. Project Screen- Main page appears after entering login creditials</h3>
+<h3>Project Screen- Main page appears after entering login creditials</h3>
 <img src="image/img3.png" height=400px width=500px>
 
-<h3>1.In the first menubar item a drop down menu bar appears in which we have 2 options</h3>
+<h3>In the first menubar item a drop down menu bar appears in which we have 2 options</h3>
 <img src="image/img4.png" height=400px width=500px>
 
 <h3>Adding new customer</h3>
