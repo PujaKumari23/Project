@@ -22,5 +22,6 @@ Functions :
    
 </ul>
 
+1. Login screen automatically appears after this screen.
+<img src="image/img1.png" height:500px width:500px>
 
-<img src="image/img1.png">
