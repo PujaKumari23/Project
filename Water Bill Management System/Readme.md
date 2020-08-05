@@ -21,3 +21,6 @@ Functions :
    <li>Has various links to the exe(application files) within the system and can open them i.e, notepad, calculator, chrome.</li>
    
 </ul>
+
+
+<img src="image/img1.png">
