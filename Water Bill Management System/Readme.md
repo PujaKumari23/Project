@@ -18,6 +18,6 @@ Functions :
      7. Has shortcut keys for basic operations such as enetering new data etc.
    </li>
    
-   <li>Has various links to the exe(application files) within the sytem and can open them i.e, notepad, calculator, chrome.</li>
+   <li>Has various links to the exe(application files) within the system and can open them i.e, notepad, calculator, chrome.</li>
    
 </ul>
