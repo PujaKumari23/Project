@@ -14,7 +14,8 @@ Functions :
      3. Can view Customers data.
      4. can calucate the bill of a particular customer.
      5. Can add new customers/consumers to the data base.
-     6. Can click on exit option to exit from the 
+     6. Can click on exit option to exit from the application.
+     7. Has shortcut keys for basic operations such as enetering new data etc.
    </li>
    
    <li>Has various links to the exe(application files) within the sytem and can open them i.e, notepad, calculator, chrome.</li>
