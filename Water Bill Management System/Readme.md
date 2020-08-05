@@ -27,7 +27,7 @@ Functions :
 <img src="image/img1.png" height=400px width=500px>
 
 <h3>Login screen</h3>
-<img src="image/img2.png" height=400px width=500px>
+<img src="image/img2.png" height=200px width=300px>
 
 <h3>Project Screen- Main page appears after entering login creditials</h3>
 <img src="image/img3.png" height=400px width=500px>
@@ -36,19 +36,19 @@ Functions :
 <img src="image/img4.png" height=400px width=500px>
 
 <h3>Adding new customer</h3>
-<img src="image/newcust.png" height=400px width=500px>
+<img src="image/newcust.PNG" height=400px width=500px>
 
 <h3>Viewing existing customer details</h3>
-<img src="image/view.png" height=400px width=500px>
+<img src="image/view.PNG" height=400px width=500px>
 
 <h3>Calculating and updating existing bill</h3>
-<img src="image/calc&update.png" height=400px width=500px>
+<img src="image/calc&update.PNG" height=400px width=500px>
 
 <h3>generating new bill</h3>
-<img src="image/generate.png" height=400px width=500px>
+<img src="image/generate.PNG" height=400px width=500px>
 
 <h3>After we choose the meter no we generate a bill having all details</h3>
-<img src="image/img6.png" height=400px width=500px>
+<img src="image/img6.PNG" height=400px width=500px>
 
 
 
