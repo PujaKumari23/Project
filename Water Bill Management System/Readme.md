@@ -1,6 +1,7 @@
 <h1> Water Bill Management System</h1>
 
-Language used - Java Swings, MySql, Java awt
+Language used - Java Swings, Java awt, Sql
+Database used - Mysql
 
 Functions :
 
@@ -16,6 +17,6 @@ Functions :
      6. Can click on exit option to exit from the 
    </li>
    
-   <li>Has various links to the exe(application files) within the sytem and can open them i.e, nitepad, calculator, chrome.</li>
+   <li>Has various links to the exe(application files) within the sytem and can open them i.e, notepad, calculator, chrome.</li>
    
 </ul>
