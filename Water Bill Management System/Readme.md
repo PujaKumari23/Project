@@ -45,10 +45,10 @@ Functions :
 <img src="image/calc&update.PNG" height=400px width=500px>
 
 <h3>generating new bill</h3>
-<img src="image/generate.PNG" height=400px width=500px>
+<img src="image/generate.PNG" height=400px width=300px>
 
 <h3>After we choose the meter no we generate a bill having all details</h3>
-<img src="image/img6.PNG" height=400px width=500px>
+<img src="image/img6.PNG" height=400px width=300px>
 
 
 
