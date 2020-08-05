@@ -1,5 +1,5 @@
 # Projects
-1. Electricity Billing System
+1. Water Bill Mangement System
 
 2. Educom
 
